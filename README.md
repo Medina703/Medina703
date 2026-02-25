@@ -1,4 +1,4 @@
-<h1>Hello, I'm Kevin <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello, I'm Kevin <br/><a href="https://github.com/Medina703">GRC</a>, <a href="https://www.linkedin.com/in/kevinmedina1/">Cybersecurity Professional</a>, </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
