@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 YouTube Videos</h2>
-<h2>Certifications</h2>
+<h2> 📜 Certifications</h2>
 
 
 <h2> 🌐 Connect with me:</h2>
