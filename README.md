@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Honeypot Lab</b>
+  - [Home SOC + SIEM](https://github.com/Medina703/Sentinel-Lab)
 
 <h2>📺 YouTube Videos</h2>
 <h2> 📜 Certifications</h2>
